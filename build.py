@@ -17,9 +17,7 @@ SITE = dict(
     nav=[
         ("index.html", "Home", []),
         ("about.html", "About us", []),
-        ("flower-basket.html", "Flower Basket", []),
-        ("flower-bouquet.html", "Flower Bouquet", []),
-        ("orchid-gift.html", "Orchid Gift", []),
+        ("flower-basket.html", "Flower Gift", [("flower-basket.html", "Flower Basket"), ("flower-bouquet.html", "Flower Bouquet"), ("orchid-gift.html", "Orchid Gift")]),
         ("garden-wedding.html", "Garden Wedding", []),
         ("first-party.html", "1st Party", []),
         ("contact.html", "Contact", []),
